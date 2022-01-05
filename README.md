@@ -1,2 +1,2 @@
-# JavaADT-Checkout-Line
-Homework assignment that uses Queues to simulate a checkout line
+# ADT Checkout Line
+The following program is an implementation of a Queue using a circular buffer
